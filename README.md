@@ -81,7 +81,7 @@ The ER diagram represents the logical structure of the database and relationship
 ## 🚀 How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/Dhananjay787500/store-database-management.git
+   git clone https://github.com/Dhananjay787500/-SQL-Data-Analyst-Project---Store-Database-Management-System.git
    ```
 2. Open the SQL file(s) in your preferred SQL tool.  
 3. Execute the schema to create all tables.  
